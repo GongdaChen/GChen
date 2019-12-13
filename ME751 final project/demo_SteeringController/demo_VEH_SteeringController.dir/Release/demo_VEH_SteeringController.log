@@ -1,0 +1,6 @@
+﻿  demo_VEH_SteeringController.cpp
+C:\Users\Administrator\Documents\chrono\chrono-develop\src\chrono/geometry/ChTriangleMeshConnected.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Documents\chrono\chrono-develop\src\chrono/physics/ChLinkGear.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Documents\chrono\irrlicht-1.8.4\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Documents\chrono\chrono-develop\src\chrono/physics/ChShaftsGearboxAngled.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  demo_VEH_SteeringController.vcxproj -> C:\Users\Administrator\Documents\chrono\chrono-build\bin\Release\demo_VEH_SteeringController.exe

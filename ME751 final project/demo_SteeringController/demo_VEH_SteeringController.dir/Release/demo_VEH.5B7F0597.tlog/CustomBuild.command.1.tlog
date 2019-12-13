@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\DOCUMENTS\CHRONO\CHRONO-DEVELOP\SRC\DEMOS\VEHICLE\DEMO_STEERINGCONTROLLER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Administrator/Documents/chrono/chrono-develop -BC:/Users/Administrator/Documents/chrono/chrono-build --check-stamp-file C:/Users/Administrator/Documents/chrono/chrono-build/src/demos/vehicle/demo_SteeringController/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
